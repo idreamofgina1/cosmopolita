@@ -1,0 +1,22 @@
+html {
+  text-align: center;
+  font-family: Gotham;
+}
+
+h1 {
+  color: white;
+  font-size: 200px;
+  font-weight: normal;
+  font-variant-caps: all-small-caps;
+}
+
+h3 {
+  color: white;
+  font-size: 30px
+  font-weight: book;
+  font-variant-caps: all-petite-caps;
+}
+
+.header {
+  background-image: url('https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/33927_1501004088485_731665_n.jpg?oh=148753f845855d82d400a3b7ea5f4928&oe=599E3464');
+}
