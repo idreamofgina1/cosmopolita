@@ -5,7 +5,7 @@ html {
 
 h1 {
   color: white;
-  font-size: 200px;
+  font-size: 150px;
   font-weight: normal;
   font-variant-caps: all-small-caps;
 }
@@ -28,4 +28,8 @@ nav {
   color: white;
   text-align: left;
   font-variant: small-caps;
+}
+
+a nav {
+  color: white;
 }
