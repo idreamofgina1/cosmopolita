@@ -12,11 +12,20 @@ h1 {
 
 h3 {
   color: white;
-  font-size: 30px
-  font-weight: book;
+  font-size: 30px;
+  font-weight: lighter;
   font-variant-caps: all-petite-caps;
 }
 
 .header {
-  background-image: url('https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/33927_1501004088485_731665_n.jpg?oh=148753f845855d82d400a3b7ea5f4928&oe=599E3464');
+  background-image: url('https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/12009558_10205310910075681_5333034212892807381_n.jpg?oh=fcf1e007cef9b89800fbe031bbb96f1d&oe=59AB5CE9');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  background-color: lightgray;
+  color: white;
+  text-align: left;
+  font-variant: small-caps;
 }
